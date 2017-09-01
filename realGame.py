@@ -1,3 +1,3 @@
 class my_class(object):
-    pass
-	print "Hello, world!" #comment
+	pass
+	print ("Hello, world!")
